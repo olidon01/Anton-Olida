@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+.page-container {
+  width: 1440px;
+  height: 700px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.intro-img {
+  display: flex;
+  width: 1480px;
+  height: 700px;
+}
